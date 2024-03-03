@@ -1,7 +1,9 @@
 # BootStrap Server 
+Description : : Developed a distributed fle-sharing system using a bootstrap server, featuring parallel serving and tokenbased access. Employed UDP for server registration and discovery, and TCP for fle transfers. 
 
 
-Assignment 3 - Socket Programming (BootStrapServer, FileServers & File Transfer) 
+
+Socket Programming (BootStrapServer, FileServers & File Transfer) 
 ========================
 
 
